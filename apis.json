@@ -1,0 +1,84 @@
+{
+    "name": "ShepHertz",
+    "description": "ShepHertz provides an Intelligent Platform for Enterprises to enable them with Agile & Incremental Digital Transformation with OmniChannel approach.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/119-shephertz.jpg",
+    "tags": [
+        "baas",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/shephertz\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ShepHertz",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/119-shephertz.jpg",
+            "humanURL": "http:\/\/shephertz.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/shephertz-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blogs.shephertz.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blogs.shephertz.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/shephertz-technologies-pvt-ltd"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/api.shephertz.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "support@shephertz.com"
+        },
+        {
+            "type": "Email",
+            "url": "siddhartha.chandurkar@shephertz.com"
+        },
+        {
+            "type": "Email",
+            "url": "sushil.bhadouria@shephertz.com"
+        },
+        {
+            "type": "Email",
+            "url": "daljeet.mehta@shephertz.com"
+        },
+        {
+            "type": "Email",
+            "url": "naveen.goswami@shephertz.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@shephertz.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/app42"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/shephertz"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/shephertz.com"
+        }
+    ]
+}
